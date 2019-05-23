@@ -1,0 +1,30 @@
+Song Titles
+
+
+		Song																									Artist										Year
+		------																									-------										------		
+1		Rose Garden																						Lynn Anderson						1970
+2		Rhinestone Cowboy																			Glen Campbell						1975
+3		Kiss an Angel Good Morning																Charley Pride							1971
+4		The Fighten Side of Me																		Merle Haggard						1970
+5		Don't It Make My Brown Eyes Blue													Crystal Gayle							1977
+6		Sunday Mornin Comin Down																Kris Kristofferson					1970
+7		Take Me Home Country Road															John Denver							1971
+8		Thank God I'm a Country Boy															John Denver							1974
+9		I Will Always Love You																		Dolly Parton							1974
+10	Is Anybody Goin' to San Antone															Charley Pride							1970
+11	Mammas Don't Let Your Babies Grow Up To Be Cowboys				Willie Nelson							1978
+12	Honey Come Back																				Glen Campbell						1970
+13	It's Only Make Believe																		Glen Campbell						1970
+14	Delta Dawn																							Tanya Tucker							1972
+15	Coward Of The County																		Kenney Rogers						1979
+16	There Goes My Everything																	Elvis Presley							1971
+17	Good Hearted Woman																		Waylon Jennings						1976
+18	Jolene																									Dolly Parton							1974
+19	Coal Miner's Daughter																		Loretta Lynn							1971
+20	You Needed Me																					Anne Murray							1978
+21	When You're Hot, You're Hot																Jerry Reed								1971
+22	Luckenbach, Texas																				Waylon Jennings						1977
+23	Here You Come Again																		Dolly Parton							1977
+24	The Happiest Girl In The Whole U.S.													Donna Fargo							1972
+25	If I Were A Carpenter																			June Carter Cash						1970

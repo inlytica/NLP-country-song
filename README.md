@@ -21,8 +21,8 @@ char_sequences.txt......................Character sequences<br>
 lyrics.txt............................................Transformed Lyrics<br>
 lyricsTrain.csv.................................Lyrics used to train model<br>
 mapping.json...............................              Character to number mapping dictionary<br>
-modelLyricsHistory.csv...............   Model values history<br>
-NLP-country-song.ipynb...........   Jupyter Notebook code<br>
-requirements.txt.............................Package requirements<br>
+modelLyricsHistory.csv..............   Model values history<br>
+NLP-country-song.ipynb..........   Jupyter Notebook code<br>
+requirements.txt............................Package requirements<br>
 
 

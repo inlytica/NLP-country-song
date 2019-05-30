@@ -1,3 +1,5 @@
+![](https://github.com/ghavranek/NLP-country-song/blob/master/guitar.jpg)
+
 <h1> AI Country</h1>
 
 Repository for LinkedIn Article:  

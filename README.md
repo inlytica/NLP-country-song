@@ -17,13 +17,13 @@ https://machinelearningmastery.com/develop-character-based-neural-language-model
 
 
 Files:<br>
-char_sequences.txt...........................Character sequences<br>
-lyrics.txt.................................................Transformed Lyrics<br>
-lyricsTrain.csv......................................Lyrics used to train model<br>
-mapping.json....................................              Character to number mapping dictionary<br>
-model.units512.es_val_acc.2........................Trained model<br>
-modelLyricsHistory.csv...................   Model values history<br>
-NLP-country-song.ipynb...............   Jupyter Notebook code<br>
-requirements.txt.................................Package requirements<br>
+char_sequences.txt................................Character sequences<br>
+lyrics.txt......................................................Transformed Lyrics<br>
+lyricsTrain.csv...........................................Lyrics used to train model<br>
+mapping.json.........................................              Character to number mapping dictionary<br>
+model.units512.es_val_acc.2...................Trained model<br>
+modelLyricsHistory.csv........................   Model values history<br>
+NLP-country-song.ipynb....................   Jupyter Notebook code<br>
+requirements.txt.....................................Package requirements<br>
 
 
